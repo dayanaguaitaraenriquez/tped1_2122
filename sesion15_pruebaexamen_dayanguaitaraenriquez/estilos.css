@@ -1,0 +1,98 @@
+body {
+    text-align: center;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    background:url(fondo-1400x860.jpg);
+    background-position: center;
+    background-size: cover;
+  }
+  header{
+    width: 100%;
+    height: 100px;
+    color: white;
+    position: fixed;
+    }
+    .container{
+        overflow: hidden;
+        display:flex;
+
+    }
+    img{
+        float: left;
+    }
+    .container li{
+        text-decoration: none;
+        float: right;
+        padding-right: 20px;
+    }
+    ul{
+        list-style-type: none;
+        padding-right: 5%;
+    }
+    a:link{
+        color: white;
+        opacity: 70%;
+        text-decoration: none;
+    }
+    a:hover{
+        color: red;
+    }
+    .izquierda{
+        text-align: left;
+        padding-top: 20%;
+        padding-left: 5%;
+    }
+    p{
+        font-size: 10pt;
+    }
+    .izquierda a:link{
+        color:rgb(93, 135, 250);
+    }
+    form{
+        padding-top: 15px;
+    }
+    .botón{
+        background-color: rgb(93, 135, 250);
+        color: white;
+    }
+    #autor{
+        padding-top: 80px;
+        padding-left: 65%;  
+    }
+    .derecha{
+        padding-top: 80px;
+        padding-left: 65%;
+        padding-bottom: 40px;
+    }
+    h2{
+        font-size: 12pt;
+    }
+ 
+ footer{
+     width: 100%;
+     height: 80px;
+     background-color: rgb(59, 59, 59);
+     color: white;
+     }
+     .pie1{
+         height: 50px;
+      }
+     .menú2 li{
+        text-decoration: none;
+        float: left;
+        width: 150px;
+        padding-top: 6px;
+     }
+     .pie2{
+         height: 100px;
+     }
+     .menú3 li{
+        text-decoration: none;
+        float: left;
+        width: 250px;
+        padding-top: 6px;
+        padding-right: 20px;
+        padding-left: 20px;
+     }
+
+
+    

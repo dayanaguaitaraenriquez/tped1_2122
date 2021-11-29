@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>GALERÍA 2</title> 
+        <link href="lightbox2-2.11.3/dist/css/lightbox.css" rel= "stylesheet">
+        <link rel="stylesheet" href="estilos.css">
+    </head>
+    <body>
+        <img class="imagen1"><img src="img1.jpg" alt="elemento1" width="300" height="250">
+        <h2>Título de la fotografía</h2>
+        <div class="desc."> Descripción acorde con la imagen que se visualiza en la parte de arriba.</div>
+        
+
+    </body>
+</html> 
+
